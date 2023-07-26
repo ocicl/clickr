@@ -1,0 +1,10 @@
+* clickr
+
+A Flickr client library for Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/schani/clickr.git   |
+| commit  | a2c32e7  |
+| systems | clickr |
+|---------+-------------------------------------------|
+
